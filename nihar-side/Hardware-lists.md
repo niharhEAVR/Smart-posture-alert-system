@@ -43,3 +43,14 @@ Buy: 1 unit | Expected: ₹50–80
 11. Elastic or Velcro Strap
 To wear the box on the upper back. A wide elastic sports band or velcro strip. Fabric/stationery shop if not available at electronics shops.
 Buy: enough for a back strap | Expected: ₹30–60
+
+
+12. Extra Jumper Wires (male-male and male-female both of 2 packs each)
+13. Capacitors (100µF electrolytic - qty-3 and 0.1µF ceramic qty-5)
+14. Diode (1N4007) - qty-10
+15. 2N2222 transistor - qty-4
+16. 220Ω resistor - qty-5
+17. 1kΩ resistor - qty-5
+18. 10kΩ resistor - qty-5
+19. mpu6050
+20. wide breadboard

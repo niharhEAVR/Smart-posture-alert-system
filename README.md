@@ -164,7 +164,7 @@ Alert the user during bad posture.
 
 ## Checklist
 
-- [ ] Connect vibration motor
+- [x] Connect vibration motor
 - [ ] Vibrate during bad posture
 - [ ] Display posture status on OLED
 - [ ] Add calibration button
@@ -179,10 +179,10 @@ Make the device battery powered.
 
 ## Checklist
 
-- [ ] Connect LiPo battery
-- [ ] Connect TP4056 charging module
-- [ ] Test battery charging
-- [ ] Test portable operation
+- [x] Connect LiPo battery
+- [x] Connect TP4056 charging module
+- [x] Test battery charging
+- [x] Test portable operation
 - [ ] Verify safe voltage levels
 
 ---
@@ -218,15 +218,13 @@ Add advanced features and polish.
 
 ---
 
-# Tomorrow's Target (30% Completion Goal)
-
 ## Must Complete
 
-- [ ] ESP32 setup
-- [ ] Arduino IDE setup
-- [ ] MPU6050 connected
-- [ ] Sensor values printing
-- [ ] OLED working
+- [x] ESP32 setup
+- [x] Arduino IDE setup
+- [x] MPU6050 connected
+- [x] Sensor values printing
+- [x] OLED working
 - [ ] Basic posture logic
 
 If these are completed, the project foundation is successfully built.

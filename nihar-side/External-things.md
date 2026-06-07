@@ -1,0 +1,6 @@
+- [ ] 1. ON/OFF Slide Switch (SPDT mini switch or Mini slide switch)
+- [ ] 2. Boost Converter Module (MT3608 Boost Converter)
+- [ ] 3. Double-Sided Tape / Mounting Tape
+- [ ] 4. Heat Shrink Tubes
+- [ ] 5. Battery Level Monitoring Module
+- [ ] 6. Perfboard / Zero PCB (IMPORTANT FOR FINAL BUILD)
