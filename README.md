@@ -133,11 +133,11 @@ Get all core components working.
 - [x] Install ESP32 board package
 - [x] Install USB drivers
 - [x] Test ESP32 with Blink code
-- [ ] Connect MPU6050
-- [ ] Read sensor values in Serial Monitor
-- [ ] Connect OLED display
-- [ ] Display test message on OLED
-- [ ] Verify sensor values change with movement
+- [x] Connect MPU6050
+- [x] Read sensor values in Serial Monitor
+- [x] Connect OLED display
+- [x] Display test message on OLED
+- [x] Verify sensor values change with movement
 
 ---
 
@@ -148,12 +148,12 @@ Detect slouching posture using angle calculations.
 
 ## Checklist
 
-- [ ] Understand accelerometer readings
-- [ ] Calculate tilt angle
-- [ ] Define posture threshold
-- [ ] Detect GOOD posture
-- [ ] Detect BAD posture
-- [ ] Test posture accuracy
+- [x] Understand accelerometer readings
+- [x] Calculate tilt angle
+- [x] Define posture threshold
+- [x] Detect GOOD posture
+- [x] Detect BAD posture
+- [x] Test posture accuracy
 
 ---
 
@@ -165,10 +165,10 @@ Alert the user during bad posture.
 ## Checklist
 
 - [x] Connect vibration motor
-- [ ] Vibrate during bad posture
-- [ ] Display posture status on OLED
-- [ ] Add calibration button
-- [ ] Save reference posture angle
+- [x] Vibrate during bad posture
+- [x] Display posture status on OLED
+- [x] Add calibration button
+- [x] Save reference posture angle
 
 ---
 
@@ -183,7 +183,7 @@ Make the device battery powered.
 - [x] Connect TP4056 charging module
 - [x] Test battery charging
 - [x] Test portable operation
-- [ ] Verify safe voltage levels
+- [x] Verify safe voltage levels
 
 ---
 
@@ -194,11 +194,11 @@ Convert prototype into wearable form.
 
 ## Checklist
 
-- [ ] Arrange components compactly
-- [ ] Fit components into enclosure
-- [ ] Cut holes for USB/display/button
-- [ ] Attach straps
-- [ ] Test wearable comfort
+- [x] Arrange components compactly
+- [x] Fit components into enclosure
+- [x] Cut holes for USB/display/button
+- [x] Attach straps
+- [x] Test wearable comfort
 
 ---
 
@@ -225,7 +225,7 @@ Add advanced features and polish.
 - [x] MPU6050 connected
 - [x] Sensor values printing
 - [x] OLED working
-- [ ] Basic posture logic
+- [x] Basic posture logic
 
 If these are completed, the project foundation is successfully built.
 
